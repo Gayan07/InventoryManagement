@@ -26,6 +26,10 @@ public class Customer {
         this.userName=userName;
         this.password=password;
     }
+
+    Customer() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     //Getters
     public int getId(){
         return id;

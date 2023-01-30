@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <form action="#" post="post">
+        <form action="log" post="post">
             <label for="fname">First name:</label><br>
             <input type="text" name="uid" ><br>
             <label for="lname">Password:</label><br>
